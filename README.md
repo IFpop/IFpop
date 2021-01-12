@@ -2,10 +2,10 @@
 
 # Hi there, I'm IFpop 👋 
 
-🔭 I’m currently working on my graduation project.
-🌱 I’m currently learning something about blockchain and vanet.
-👯 I’m looking to collaborate on other content creators.
-🥅 2021 Goals: Get into graduate school or get a good job
+🔭 I’m currently working on my graduation project. <br>
+🌱 I’m currently learning something about blockchain and vanet. <br>
+👯 I’m looking to collaborate on other content creators. <br>
+🥅 2021 Goals: Get into graduate school or get a good job <br>
 
 <br>
   
