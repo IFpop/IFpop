@@ -2,13 +2,17 @@
 
 # Hi there, I'm IFpop 👋 
 
-🔭 I’m currently working on my graduation project. <br>
-🌱 I’m currently learning something about blockchain and vanet. <br>
-👯 I’m looking to collaborate on other content creators. <br>
-🥅 2021 Goals: Get into graduate school or get a good job <br>
+</div>
+
+- 🔭 I’m currently working on my graduation project. <br>
+- 🌱 I’m currently learning something about blockchain and vanet. <br>
+- 👯 I’m looking to collaborate on other content creators. <br>
+- 🥅 2021 Goals: Get into graduate school or get a good job <br>
 
 <br>
-  
+
+<div align="center"> 
+
 # PORTRAIT 😃
 ![C](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)
