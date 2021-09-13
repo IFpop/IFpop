@@ -4,10 +4,10 @@
 
 </div>
 
-- 🔭 I’m currently working on my graduation project. <br>
-- 🌱 I’m currently learning something about blockchain and vanet. <br>
+- 🔭 I’m currently studying master. <br>
+- 🌱 I’m currently learning something about NDN and CDN. <br>
 - 👯 I’m looking to collaborate on other content creators. <br>
-- 🥅 2021 Goals: Get into graduate school or get a good job <br>
+- 🥅 2021 Goals: Make myself Strong on something <br>
 
 <br>
 
