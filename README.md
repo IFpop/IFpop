@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying master. <br>
 - 🌱 I’m currently learning something about NDN and CDN. <br>
 - 👯 I’m looking to collaborate on other content creators. <br>
-- 🥅 2021 Goals: Make myself Strong on something <br>
+- 🥅 2022 Goals: Make myself Strong on something <br>
 
 <br>
 
